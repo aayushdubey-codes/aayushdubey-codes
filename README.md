@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AAYUSH DUBEY</h1>
 <h3 align="center">Passionate Developer From India</h3>
-<img align="right" alt="Coding" width="300" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" alt="Coding" width="260" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushdubey-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdubey-codes" /> </p>
 
